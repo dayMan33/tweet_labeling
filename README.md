@@ -10,7 +10,8 @@ The full implementation and results appear in the project.pdf file
 
 
 
-###File list:
+File list:
+----------
 
 1. project.pdf - A detailed explanation of the process we went through while trying to learn task 1 (who tweeted what).
 2. src:
